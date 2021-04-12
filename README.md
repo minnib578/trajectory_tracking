@@ -37,3 +37,9 @@ rosluanch trajectory_tracking stragthline.launch
 roslaunch trajectory_tracking gazebo_tb3_sim.launch
 rosluanch trajectory_tracking circle.launch
 ```
+
+
+# Visualizing the result
+<video width="640" height="480" controls>
+  <source src="./video/circle_moving.mkv" type="video/mp4">
+</video>
