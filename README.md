@@ -17,7 +17,7 @@ cd src
 git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
-git clone https://github.com/minnib578/Turtlebot3-trajectory-tracking.git
+https://github.com/minnib578/trajectory_tracking.git
 cd ..
 catkin_make 
 source devel/setup.bash
