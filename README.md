@@ -41,5 +41,5 @@ rosluanch trajectory_tracking circle.launch
 
 # Visualizing the result
 <video width="640" height="480" autoplay>
-  <source src="./video/circle_moving.mkv" type="video/mkv">
+  <source src="video/circle_moving.mkv" type="video/mkv">
 </video>
